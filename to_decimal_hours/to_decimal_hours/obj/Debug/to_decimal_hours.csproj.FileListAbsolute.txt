@@ -1,0 +1,10 @@
+C:\Users\micha\source\repos\to_decimal_hours\to_decimal_hours\obj\Debug\to_decimal_hours.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\to_decimal_hours\to_decimal_hours\obj\Debug\to_decimal_hours.Form1.resources
+C:\Users\micha\source\repos\to_decimal_hours\to_decimal_hours\obj\Debug\to_decimal_hours.Properties.Resources.resources
+C:\Users\micha\source\repos\to_decimal_hours\to_decimal_hours\obj\Debug\to_decimal_hours.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\to_decimal_hours\to_decimal_hours\obj\Debug\to_decimal_hours.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\to_decimal_hours\to_decimal_hours\bin\Debug\to_decimal_hours.exe.config
+C:\Users\micha\source\repos\to_decimal_hours\to_decimal_hours\bin\Debug\to_decimal_hours.exe
+C:\Users\micha\source\repos\to_decimal_hours\to_decimal_hours\bin\Debug\to_decimal_hours.pdb
+C:\Users\micha\source\repos\to_decimal_hours\to_decimal_hours\obj\Debug\to_decimal_hours.exe
+C:\Users\micha\source\repos\to_decimal_hours\to_decimal_hours\obj\Debug\to_decimal_hours.pdb
